@@ -6,7 +6,7 @@ title: Tomás Novau Foresi's CV
 Sr. Full-stack developer.
 
 <div id="webaddress">
-<a href="tnovau@gmail.com">tnovau@gmail.com</a>
+<a href="mailto:tnovau@gmail.com">tnovau@gmail.com</a>
 | <a href="https://tnovau.github.io/">Personal page</a>
 </div>
 
@@ -15,7 +15,7 @@ Sr. Full-stack developer.
 
 I'm working as a full-stack developer, for an insurance company. Using .NET core and React-redux.
 
-### Specialized in
+## Specialized in
 
 Web and mobile development.
 
@@ -153,7 +153,7 @@ __NEORIS Argentina(Internship)__
 - Introduction to Data Warehouse.
 - Introduction to Integration Services.
 
-### Freelance Projects
+## Freelance Projects
 `May 2018 - Dec 2019`
 __K. Moody And Associates (kmaac.com)__
 
@@ -172,13 +172,13 @@ __BS in Informatics__
 
 - Instituto Privado Fray Luis Beltrán, San Nicolás, Argentina
 
-### Languages
+## Languages
 
 - __Spanish__: Native Speaker.
 - __English__: Advanced level.
 - __German__: Initial level.
 
-### Scolarships
+## Scolarships
 
 `2018`
 __DAAD Scolarships__
@@ -191,7 +191,7 @@ __Beca al Mérito Fundación Roca__
 `2008-2011`
 __Beca Fundación Acindar__
 
-### I+D
+## I+D
 
 `2016`
 __Research project IISIDRO at university.__
