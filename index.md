@@ -25,7 +25,7 @@ Web and mobile development.
 `Apr 2019 - Today`
 __ALTRAN(Axa Assistance Client)__
 
-- Mantainance of a .NET Framework backend app writed in C#.
+- Mantainance of a .NET Framework backend app with C#.
 - Mantainance of a React-Redux frontend app writed using js.
 - Unit tests implementation from scratch, sometimes using TDD.
 - Integration tests implementation from scratch.
@@ -78,13 +78,12 @@ __Endava Argentina(Kinnser/Mediware/WellSky client)__
 `Feb 2018 – Jul 2018`
 __Holistor SA(Holistor Platform)__ 
 
-- Implementation of a new web app built onto ASP.NET Zero template, using Angular 5, ASP.NET Core & PostgreSQL, for customer sucess.
+- Implementation of a new web app built onto ASP.NET Zero template, using Angular 5, ASP.NET Core & PostgreSQL, for customer success.
 - Team leading and architectural decisions.
 - Google Maps and Geocoding integration.
 - Usage of JWT and ASP.NET MVC to authenticate against CMS Blogifier.
 - Use of Docker as container engine.
-- Use of Kubernetes as container orchestration engine in IBM cloud and Docker compose for local 
-ment.
+- Use of Kubernetes as container orchestration engine in IBM cloud and Docker compose for local development.
 - Use of JIRA for project management.
 - Usage of EF Core.
 
