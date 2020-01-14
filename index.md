@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Tomás Novau Foresi
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
