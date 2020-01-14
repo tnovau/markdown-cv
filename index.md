@@ -35,7 +35,6 @@ __ALTRAN(Axa Assistance Client)__
 - Writing SQL Migrations for database updates.
 - Writing unit testing for the frontend app.
 - Writing code reviews, making manual testing, participating in SCRUM ceremonies.
-
 - Usage of NHibernate ORM and ITextSharp for the backend app.
 - Usage of XUnit, JustMock, AutoFac & AutoFixture for unit tests implementation
 - Usage of Fixie, JustMock, AutoFixture and Shouldly for the integration tests implementation.
@@ -57,7 +56,6 @@ __Whyline, INC__
 - Monitoring app environments using AWS Elastic Beanstalk.
 - Configuring CircleCI for CI/CD.
 - Writing mongoose migrations for the backend apps.
-
 - Usage of libraries like lodash, request-promise, moment, mandrill.
 - Usage of mocha, chai and sinon for one testing project also jest and instanbul for other one.
 - Usage of MongoDB as database engine.
@@ -71,7 +69,6 @@ __Endava Argentina(Kinnser/Mediware/WellSky client)__
 - Implementation of microservices with .NET 4.5.1 and .NET Core.
 - Writing QA Automation tests.
 - Writing unit tests for frontend and backend apps.
-
 - Usage of Sumo logic for app monitoring.
 - Usage of Git and JIRA with SCRUM as methodology.
 - Usage of Selenium Java and .NET.
@@ -83,7 +80,6 @@ __Holistor SA(Holistor Platform)__
 
 - Implementation of a new web app built onto ASP.NET Zero template, using Angular 5, ASP.NET Core & PostgreSQL, for customer sucess.
 - Team leading and architectural decisions.
-
 - Google Maps and Geocoding integration.
 - Usage of JWT and ASP.NET MVC to authenticate against CMS Blogifier.
 - Use of Docker as container engine.
@@ -115,15 +111,13 @@ __Holistor SA("Mi Holistor" Mobile)__
 
 - Implementation of a new mobile app for customer success, built onto Ionic, for Android and iOS platforms.
 - Deploying to Play Store and Apple Store.
-
 - Usage of saas and typescript.
 
 `Oct 2017 - Jan 2018`
-__AAJ Technologies(Accurate Group Client – GW 3.0 Project)__ - 
+__AAJ Technologies(Accurate Group Client – GW 3.0 Project)__
 
 - Implementation of a new version of their mobile app, "Groundworks 3.0" using Xamarin forms, for Android and iOS platforms. The objective of the app is to price houses in USA.
 - Writing unit test for the app.
-
 - Usage of Git and VSTS using SCRUM methodology.
 - Usage of Microsoft Mobile center for app distribution.
 - Usage of NUnit for testing
@@ -133,15 +127,14 @@ __AAJ Technologies(Accurate Group Client – GW 3.0 Project)__ -
 __AAJ Technologies(ADX 365 Client)__
 
 - Implementation of a web and mobile app using Ionic, for iOS, Android and the web, for car auctions in USA.
-
 - Typescript, sass, bootstrap, npm, node.js, auth0.
 - Git and VSTS, applying SCRUM methodology.
 
 `Jan 2017 - Apr 2017`
 __AAJ Technologies(South East Health)__
 
-- Implementation of a video player app, with TV streaming and movies for Windows 10. The objective of the app is to play that videos in some hospitals in the USA.
-
+- Implementation of a video player app, with TV streaming and movies for Windows 10.
+- The objective of the app is to play that videos in some hospitals in the USA.
 - UWP project, using C# and XAML markup.
 - Git and VSTS, applying SCRUM methodology.
 
@@ -181,17 +174,25 @@ __BS in Informatics__
 
 ## Languages
 
-- Spanish: Native Speaker.
-- English: Advanced level.
-- German: Initial level.
+- __Spanish__: Native Speaker.
+- __English__: Advanced level.
+- __German__: Initial level.
 
 ## Scolarships
 
-- DAAD 2018 Scolarships(preselected)
-- “Beca al Mérito Fundación Roca” (2012-2013)
-- “Beca Fundación Acindar” (2008-2011)
+`2018`
+__DAAD Scolarships__
+
+- preselected 
+
+`2012-2013`
+__Beca al Mérito Fundación Roca__
+
+`2008-2011`
+__Beca Fundación Acindar__
 
 ## I+D
+
 `2016`
 __Research project IISIDRO at university.__
 
