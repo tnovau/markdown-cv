@@ -115,7 +115,8 @@ __Holistor SA("Mi Holistor" Mobile)__
 `Oct 2017 - Jan 2018`
 __AAJ Technologies(Accurate Group Client – GW 3.0 Project)__
 
-- Implementation of a new version of their mobile app, "Groundworks 3.0" using Xamarin forms, for Android and iOS platforms. The objective of the app is to price houses in USA.
+- Implementation of a new version of their mobile app, "Groundworks 3.0" using Xamarin forms, for Android and iOS platforms.
+- The objective of the app is to price houses in USA.
 - Writing unit test for the app.
 - Usage of Git and VSTS using SCRUM methodology.
 - Usage of Microsoft Mobile center for app distribution.
