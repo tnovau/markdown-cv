@@ -13,16 +13,28 @@ Sr. Full-stack developer.
 
 ## Currently
 
-I'm working as a full-stack developer, for an insurance company. Using .NET core and React-redux.
+I'm working as a full-stack developer & Dev-ops, for an insurance company. Using Node.js, .NET core and React-redux.
 
 ## Specialized in
 
-Web and mobile development.
+Web and mobile development & Dev-ops
 
 ## Experience
 
 
-`Apr 2019 - Today`
+`Mar 2020 - Today`
+__ALTRAN(Axa Assistance Client)__
+
+- New project from scratch with node.js and react-redux with typescript.
+- Usage of create-react-app with testing library for the tests.
+- E2E using codeceptjs and webdriver.
+- Monitoring app environments using Azure portal.
+- Configuring and managing CI/CD using Azure Devops pipelines.
+- Mocking third party dependencies for local usage.
+- Authentication using auth0
+- Usage of ARM templates to deploy the infrastructure.
+
+`Apr 2019 - Mar 2020`
 __ALTRAN(Axa Assistance Client)__
 
 - Mantainance of a .NET Framework backend app with C#.
