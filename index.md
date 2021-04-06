@@ -179,11 +179,13 @@ __NEORIS Argentina(Internship)__
 - Introduction to Integration Services.
 
 ## Freelance Projects
-`May 2018 - Dec 2019`
+`May 2018 - Today`
 __K. Moody And Associates (kmaac.com)__
 
 - Mantainance of a news related mobile app for Android and iOS, using Ionic.
 - Integration with Disqus, Wordpress, Youtube, SoundCloud and OneSignal.
+- Writing version 2 of application from scratch, using ionic 3, angular 10 and NGRX. 
+- Usage of firebase analytics.
 
 ## Education
 
