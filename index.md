@@ -13,7 +13,7 @@ Sr. Full-stack developer.
 
 ## Currently
 
-I'm working as a full-stack developer & Dev-ops, for an insurance company. Using Node.js, .NET core and React-redux.
+I'm working as a Sr. full-stack developer & Dev-ops, for a digital marketing. Using Node.js, .NET core and React.
 
 ## Specialized in
 
@@ -21,9 +21,22 @@ Web and mobile development & Dev-ops
 
 ## Experience
 
+`Nov 2020 - Today`
+__Tiendeo - Cashback__
 
-`Mar 2020 - Today`
-__ALTRAN(Axa Assistance Client)__
+- Mantainance of a .NET Core backend with C#.
+- Development of a new node.js API, using express framework.
+- Mantainance of multiple web apps using react, next.js, react-redux, javascript, typescript.
+- Usage of react-query, styled-components, material-ui, sass.
+- Usage of GCP storage service, Google OCR service to read images.
+- Mantainance of multiple Jenkins Pipelines, using bash scripts.
+- Development of docker images and docker compose yamls for local development and pipelines.
+- Development of Kubernetes yamls using helm.
+- Usage of PostgreSQL and SQL Server, and writing the migrations for theese DBs.
+- Mantainance of cypress based test suite.
+
+`Mar 2020 - Nov 2020`
+__ALTRAN(Axa Assistance Client) - FREND__
 
 - New project from scratch with node.js and react-redux with typescript.
 - Usage of create-react-app with testing library for the tests.
@@ -35,7 +48,7 @@ __ALTRAN(Axa Assistance Client)__
 - Usage of ARM templates to deploy the infrastructure.
 
 `Apr 2019 - Mar 2020`
-__ALTRAN(Axa Assistance Client)__
+__ALTRAN(Axa Assistance Client) - Online claims__
 
 - Mantainance of a .NET Framework backend app with C#.
 - Mantainance of a React-Redux frontend app writed using js.
