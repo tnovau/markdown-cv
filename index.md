@@ -13,7 +13,7 @@ Sr. Full-stack developer.
 
 ## Currently
 
-I'm working as a Sr. full-stack developer & Dev-ops, for a digital marketing. Using Node.js, .NET core and React.
+I'm working as a Sr. full-stack developer & Dev-ops, for a digital marketing company. Using Node.js, .NET core and React.
 
 ## Specialized in
 
