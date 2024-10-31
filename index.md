@@ -21,19 +21,36 @@ Web and mobile development & Dev-ops
 
 ## Experience
 
-`Nov 2020 - Today`
+
+`Jul 2023 - Today`
+__Self Employed (On The Edge IT Solutions) - Tiendeo (Shopfully integration)__
+- Development of backend integration between Shopfully and Tiendeo backends using C#.
+- Maintenance of multiple back-office solutions in front-end and back-end using react and node.js.
+- Development from scratch of solution that uses OCR using AWS Amplify and typescript.
+
+`Oct 2021 - Jun 2023`
+__Self Employed - IT Systems (AutoAnything)__
+- Maintenance of Graphql API using Node.js.
+- Development of Docker deployments of API in GCP
+- Monitoring API and Cloud Functions (Node.js) in GCP
+- Development of multiple Cloud Functions for external vendor integrations in GCP.
+- Maintenance of multiple custom store-fronts for different e-commerce in React and Next.js (typescript)
+- Integration of Shopify with previous backend.
+- Integration of Bigcommerce with previous backend.
+
+`Nov 2020 - Sep 2021`
 __Tiendeo - Cashback__
 
-- Mantainance of a .NET Core backend with C#.
+- Maintenance of a .NET Core backend with C#.
 - Development of a new node.js API, using express framework.
-- Mantainance of multiple web apps using react, next.js, react-redux, javascript, typescript.
+- Maintenance of multiple web apps using react, next.js, react-redux, javascript, typescript.
 - Usage of react-query, styled-components, material-ui, sass.
 - Usage of GCP storage service, Google OCR service to read images.
-- Mantainance of multiple Jenkins Pipelines, using bash scripts.
+- Maintenance of multiple Jenkins Pipelines, using bash scripts.
 - Development of docker images and docker compose yamls for local development and pipelines.
 - Development of Kubernetes yamls using helm.
-- Usage of PostgreSQL and SQL Server, and writing the migrations for theese DBs.
-- Mantainance of cypress based test suite.
+- Usage of PostgreSQL and SQL Server, and writing the migrations for these DBs.
+- Maintenance of cypress based test suite.
 
 `Mar 2020 - Nov 2020`
 __ALTRAN(Axa Assistance Client) - FREND__
@@ -50,8 +67,8 @@ __ALTRAN(Axa Assistance Client) - FREND__
 `Apr 2019 - Mar 2020`
 __ALTRAN(Axa Assistance Client) - Online claims__
 
-- Mantainance of a .NET Framework backend app with C#.
-- Mantainance of a React-Redux frontend app writed using js.
+- Maintenance of a .NET Framework backend app with C#.
+- Maintenance of a React-Redux frontend app write using js.
 - Unit tests implementation from scratch, sometimes using TDD.
 - Integration tests implementation from scratch.
 - Monitoring app environments using Azure portal.
@@ -73,8 +90,8 @@ __ALTRAN(Axa Assistance Client) - Online claims__
 `Nov 2018 – Apr 2019`
 __Whyline, INC__
 
-- Mantainance of a social network backend app writed in typescript and javascript built onto Node.js and express.
-- Mantainance of a social network frontend app writed in typescript built onto Ionic for iOS and Android platforms.
+- Maintenance of a social network backend app write in typescript and javascript built onto Node.js and express.
+- Maintenance of a social network frontend app write in typescript built onto Ionic for iOS and Android platforms.
 - Implementation of a new backend app using typescript and Nest.js.
 - Implementation of a frontend app using typescript, React and Material UI.
 - Unit tests implementation in projects with typescript and plain javascript.
@@ -90,7 +107,7 @@ __Whyline, INC__
 `Jul 2018 – Nov 2018`
 __Endava Argentina(Kinnser/Mediware/WellSky client)__
 
-- Mantainance of web app built onto on Coldfusion and Angular.js.
+- Maintenance of web app built onto on Coldfusion and Angular.js.
 - Implementation of microservices with .NET 4.5.1 and .NET Core.
 - Writing QA Automation tests.
 - Writing unit tests for frontend and backend apps.
@@ -101,7 +118,7 @@ __Endava Argentina(Kinnser/Mediware/WellSky client)__
 - Usage of Nunit for .NET and jasmine for angular.js.
 
 `Feb 2018 – Jul 2018`
-__Holistor SA(Holistor Platform)__ 
+__Holistor SA(Holistor Platform)__
 
 - Implementation of a new web app built onto ASP.NET Zero template, using Angular 5, ASP.NET Core & PostgreSQL, for customer success.
 - Team leading and architectural decisions.
@@ -163,16 +180,16 @@ __AAJ Technologies(South East Health)__
 - UWP project, using C# and XAML markup.
 - Git and VSTS, applying SCRUM methodology.
 
-`Sep 2016 – Jan 2017` 
+`Sep 2016 – Jan 2017`
 __NEORIS Argentina(Ternium Client)__
 
-- Mantainance of the Ternium's Data WareHouse
+- Maintenance of the Ternium's Data WareHouse
 - ETL Configuration to integrate SAP and Data Warehouse.
 - Maintenance of .dts and Integration Services
 packages.
 
 `Aug 2016 – Sep 2016`
-__NEORIS Argentina(Internship)__ 
+__NEORIS Argentina(Internship)__
 
 - SQL Server 2012 training.
 - Introduction to Data Warehouse.
@@ -182,9 +199,9 @@ __NEORIS Argentina(Internship)__
 `May 2018 - Today`
 __K. Moody And Associates (kmaac.com)__
 
-- Mantainance of a news related mobile app for Android and iOS, using Ionic.
+- Maintenance of a news related mobile app for Android and iOS, using Ionic.
 - Integration with Disqus, Wordpress, Youtube, SoundCloud and OneSignal.
-- Writing version 2 of application from scratch, using ionic 3, angular 10 and NGRX. 
+- Writing version 2 of application from scratch, using ionic 3, angular 10 and NGRX.
 - Usage of firebase analytics.
 
 ## Education
@@ -210,7 +227,7 @@ __BS in Informatics__
 `2018`
 __DAAD Scolarships__
 
-- preselected 
+- preselected
 
 `2012-2013`
 __Beca al Mérito Fundación Roca__
@@ -229,5 +246,3 @@ __Research project IISIDRO at university.__
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
