@@ -21,14 +21,32 @@ Web and mobile development & Dev-ops
 
 ## Experience
 
+`Mar 2024 - Today`
+__On The Edge IT Solutions - Tiendeo (Offerista Integration)__
+- Development of multiple new features in frontend solution to crop images using react and typescript.
+- Writing documentation using mermaid.
+- Monitoring application using AWS console.
+- Using webpack for transpiling the code.
+- Adding typescript to javascript old project using incremental approach.
 
-`Jul 2023 - Today`
-__Self Employed (On The Edge IT Solutions) - Tiendeo (Shopfully integration)__
+`Nov 2023 - Mar 2024`
+__On The Edge IT Solutions - IT Systems (ATechLogistics)__
+- Development from scratch of frontend solution using React with typescript, tailwind CSS for styling and radix-ui for components.
+- Integrating custom API with frontend for authentication and authorization using axios.
+- Integrating hotjar with frontend for monitoring purposes.
+- Usage of react-query for keeping state up to date with backend.
+- Usage of react-dnd for drag and drop functionalities.
+- Usage of react-hook form for manage of the forms.
+- Usage of vite for bundling.
+- Integration of react-google-maps creating interactive solutions.
+
+`Abr 2023 - Nov 2023`
+__Self Employed - Tiendeo (Shopfully integration)__
+- Maintenance of multiple back-office solutions in frontend and backend using react and node.js.
 - Development of backend integration between Shopfully and Tiendeo backends using C#.
-- Maintenance of multiple back-office solutions in front-end and back-end using react and node.js.
-- Development from scratch of solution that uses OCR using AWS Amplify and typescript.
+- Development from scratch of solution that uses OCR using AWS Amplify, graphQL, lambda functions and typescript.
 
-`Oct 2021 - Jun 2023`
+`Oct 2021 - Mar 2023`
 __Self Employed - IT Systems (AutoAnything)__
 - Maintenance of Graphql API using Node.js.
 - Development of Docker deployments of API in GCP
