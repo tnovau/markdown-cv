@@ -6,14 +6,14 @@ title: Tomás Novau Foresi's CV
 Sr. Full-stack developer.
 
 <div id="webaddress">
-<a href="mailto:tnovau@gmail.com">tnovau@gmail.com</a>
+<a href="mailto:tnovau@ontheedge.cloud">tnovau@ontheedge.cloud</a>
 | <a href="https://tnovau.github.io/">Personal page</a>
 </div>
 
 
 ## Currently
 
-I'm working as a Sr. full-stack developer & Dev-ops, for a digital marketing company. Using Node.js, .NET core and React.
+I'm a Sr. full-stack developer & Dev-ops, for a digital marketing company. Using Node.js, .NET core and React.
 
 ## Specialized in
 
@@ -21,7 +21,18 @@ Web and mobile development & Dev-ops
 
 ## Experience
 
-`Mar 2024 - Today`
+`Mar 2024 - Nov 2024`
+__On The Edge IT Solutions - Insurance company__
+- Development of web component in vue 2.
+- Maintenance and new development in complex monorepo (nx) project using node.js, express.js, graphql and vue2.
+- Writing migrations for mysql and mariadb.
+- Maintenance of cache system using redis.
+- Deployment and maintenance of AWS lambda layers for lambda functions.
+- Usage of vuex for state management.
+- Usage of bootstrap-vue.
+- Writing tests for front-end and back-end using jest.
+
+`Mar 2024 - Nov 2024`
 __On The Edge IT Solutions - Tiendeo (Offerista Integration)__
 - Development of multiple new features in frontend solution to crop images using react and typescript.
 - Writing documentation using mermaid.
