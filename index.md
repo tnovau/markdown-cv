@@ -21,7 +21,7 @@ Web and mobile development & Dev-ops
 
 ## Experience
 
-`Mar 2024 - Nov 2024`
+`Dec 2024 - now`
 __On The Edge IT Solutions - Insurance company__
 - Development of web component in vue 2.
 - Maintenance and new development in complex monorepo (nx) project using node.js, express.js, graphql and vue2.
